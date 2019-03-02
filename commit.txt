@@ -1,0 +1,7 @@
+Good commit naming
+
+TASK_NAME[/TYPE]: message
+
+binary-tree/feature: implement traverse method
+binary-tree/fix: error in the empty tree
+youtube: rename constans
